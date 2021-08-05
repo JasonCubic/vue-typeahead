@@ -1,4 +1,4 @@
-# vue-easy-typeahead
+# vue-typeahead
 
 ## Build Setup
 
